@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Vitor Ames</h1>
-<p>A Full-stack developer based in New Zealand | Check my online resumé: <a href="https://vitorames.onrender.com/">https://vitorames.onrender.com/</a></p>
+<h4>A Full-stack developer based in New Zealand | Check my online resumé: <a href="https://vitorames.onrender.com/">https://vitorames.onrender.com/</a></h4>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
